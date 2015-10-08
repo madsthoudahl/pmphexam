@@ -1,1 +1,8 @@
 *.zip
+
+# tex stuff
+tex/*.log
+tex/*.aux
+tex/*.pdf
+tex/*.gz
+tex/*.bak
