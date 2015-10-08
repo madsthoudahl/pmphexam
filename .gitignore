@@ -1,5 +1,8 @@
 *.zip
 
+# temp files
+*~
+
 # tex stuff
 tex/*.log
 tex/*.aux
